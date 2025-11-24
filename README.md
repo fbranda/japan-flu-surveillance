@@ -32,5 +32,5 @@ install.packages(c(
 ))
 
 # Clone repository
-git clone https://github.com/your-username/japan-flu-surveillance.git
+git clone https://github.com/fbranda/japan-flu-surveillance.git
 cd japan-flu-surveillance
